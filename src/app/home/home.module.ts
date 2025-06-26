@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 
 import { HomePageRoutingModule } from './home-routing.module';
+import { ModalSelectCategoryComponent } from '../components/modal-select-category/modal-select-category.component';
 
 
 @NgModule({
